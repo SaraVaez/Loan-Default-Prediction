@@ -64,6 +64,7 @@ This project builds a machine learning pipeline to predict whether a borrower is
 - Python
 - Pandas, NumPy
 - Scikit-learn
+- Random Forest
 - XGBoost (optional enhancement)
 - Seaborn, Matplotlib
 
